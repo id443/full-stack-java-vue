@@ -1,4 +1,4 @@
-package dev.danvega;
+package sma.vuejsplusspring;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
